@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images/png">
+        <file>resources/cat.png</file>
+        <file>resources/dog.png</file>
+        <file>resources/default.png</file>
+        <file>resources/disabled.png</file>
+    </qresource>
+</RCC>
